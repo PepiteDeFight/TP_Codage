@@ -11,7 +11,7 @@ L'ensemble des fichiers sources sont disponibles dans le fichier src à la racin
 Lorsque vous compiler (cf Création) vous obtiendrez 2 nouveaux fichiers qui sont ./bin et ./obj .
 Ils contiennent les exécutables et les objets de compilation.
 
-![Organisation des fichiers](../../img/Organisation.png?raw=true "Title")
+![Organisation des fichiers](img/Organisation.png?raw=true "Title")
 
 
 # Création des différents modules
